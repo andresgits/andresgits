@@ -4,7 +4,7 @@
 
 <!-- ## 👋 &nbsp;Hola que tal Me llamo Andres Felipe -->
 
-###👨🏻‍💻 &nbsp;Quieres saber acerca de mi?
+👨🏻‍💻 &nbsp###;Quieres saber acerca de mi?
 
 👨‍💻 &nbsp;Actualmente Trabajo como desarrollador backend visionado a ser fullstack.\
 💡 &nbsp;Me gusta resolver problemas ayudar a mejorar el codigo y siempre entenderlo hasta donde pueda.\
