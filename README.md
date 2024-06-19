@@ -1,4 +1,4 @@
-![Aditya Kanoi Banner](https://github.com/andresgits/andresgits/raw/main/assets/al/archivo)
+![Aditya Kanoi Banner](https://github.com/andresgits/andresgits/raw/main/assets/pexels-rsantos1232-3888151.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
 
