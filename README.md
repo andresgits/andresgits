@@ -1,8 +1,10 @@
 ![Aditya Kanoi Banner](https://github.com/andresgits/andresgits/raw/main/assets/pexels-rsantos1232-3888151.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
- ## Hola que tal Me llamo Andres Felipe
+ ## SOBRE MI
+
+ <h2 align="left">hola mi nombre es andres felipe</h2>
 
 
 👨‍💻 &nbsp;Actualmente Trabajo como desarrollador backend visionado a ser fullstack.\
