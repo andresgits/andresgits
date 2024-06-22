@@ -1,8 +1,6 @@
-![Aditya Kanoi Banner](https://github.com/andresgits/andresgits/raw/main/assets/pexels-rsantos1232-3888151.jpg)
+<img src="https://i.imgur.com/Cv9Dg1u.jpeg" alt="Aditya Kanoi Banner" width="800"/>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
-
- ## SOBRE MI
+ <h2 align="left"> SOBRE MI </h2>
 
  <h2 align="left">hola mi nombre es andres felipe</h2>
 
