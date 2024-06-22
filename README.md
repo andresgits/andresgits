@@ -2,7 +2,7 @@
 
  <h2 align="left"> SOBRE MI </h2>
 
- <h2 align="left">hola mi nombre es andres felipe</h2>
+ <h2 align="left">mi nombre es andres felipe</h2>
 
 
 👨‍💻 &nbsp;Actualmente Trabajo como desarrollador backend visionado a ser fullstack.\
@@ -10,13 +10,10 @@
 🎓 &nbsp;Estos años estoy estudiando como tecnologo para reforzar mis habilidades en la universidad del valle .\
 🌱 &nbsp;Dirigo mi aprendizaje en la estructuracion de codigo, Aplicaciones de escritorio, Aplicaciones Moviles Proximamente Aplicaciones Web.\
 ✍️ &nbsp;En mi tiempo libre sigo aprendiendo.\
-✉️ &nbsp;Puedes contactarte conmigo en mi correo personal.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
-
-
+✉️ &nbsp;Puedes contactarte conmigo en mi correo personal.
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Bloque de Tecnologias
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
