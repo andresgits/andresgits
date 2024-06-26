@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/UqIERY0.png" alt="Aditya Kanoi Banner" width="800"/>
+<img src="https://i.imgur.com/uOGkxWY.jpeg" alt="Aditya Kanoi Banner" width="800"/>
 
  <h2 align="left"> SOBRE MI </h2>
 
