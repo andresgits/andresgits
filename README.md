@@ -64,10 +64,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=andresgits&theme=dark&hide_border=true"/>
 </p>
 
-### 🎖 &nbsp;Mis Insignias 
-
-[![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
-
 
 ### 📜 &nbsp;Mis articulos
 
